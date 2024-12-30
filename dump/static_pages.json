@@ -1,0 +1,130 @@
+{
+    "title" : "Payments",
+    "slug_name" : "payments",
+    "sub_title" : "Payments",
+    "description" : {
+        "en":"<p><strong>eSpares</strong>&nbsp;are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.</p>\n\n<p>The type of information we will collect about you when you place an order or register on our web site includes:</p>\n\n<ul>\n\t<li>Address</li>\n\t<li>Phone number</li>\n\t<li>Email address</li>\n\t<li>Credit/debit card details</li>\n</ul>\n\n<p>This information is already stored on our internal systems and our website simply verifies you as a customer of eSpares (and their associated trading brands). We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer your information outside the EEA (European Economic Area). We may use technology to track the patterns of behaviour of visitors to our site.&nbsp;</p>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:52:43.472Z")
+},
+{
+    "title" : "Shipping",
+    "slug_name" : "shipping",
+    "sub_title" : "Shipping",
+    "description" : {
+        "en":"<ol>\n\t<li>Be aware of terms and conditions: check payment and delivery details</li>\n\t<li>Keep records of what you order</li>\n\t<li>EU law protects you against fraudulent use of your payment card in EU transactions: credit cards give you extra protection</li>\n\t<li>Only give your payment card details over a secure connection, and never by email: never disclose your PIN to anyone, and NEVER send it over the Internet</li>\n\t<li>You usually have at least 7 days to cancel an order and request a refund from an EU retailer</li>\n\t<li>Check your payment card statement carefully: you have at least 90 days to report a suspect transaction</li>\n\t<li>When you buy goods online from outside the EU: you are an importer and may be liable to pay any Customs Duty and VAT; err on the side of caution as it may be difficult to seek redress if problems arise</li>\n\t<li>If you have a problem, contact the seller. Then, if you need to, contact the payment card company, local Trading Standards Office and any &#39;trustmark&#39; organisation the seller is registered with</li>\n</ol>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:51:40.075Z")
+},
+{
+    "title" : "My Account",
+    "slug_name" : "my-account",
+    "sub_title" : "My Account",
+    "description" : {
+        "en":"<ol>\n\t<li>Be aware of terms and conditions: check payment and delivery details</li>\n\t<li>Keep records of what you order</li>\n\t<li>EU law protects you against fraudulent use of your payment card in EU transactions: credit cards give you extra protection</li>\n\t<li>Only give your payment card details over a secure connection, and never by email: never disclose your PIN to anyone, and NEVER send it over the Internet</li>\n\t<li>You usually have at least 7 days to cancel an order and request a refund from an EU retailer</li>\n\t<li>Check your payment card statement carefully: you have at least 90 days to report a suspect transaction</li>\n\t<li>When you buy goods online from outside the EU: you are an importer and may be liable to pay any Customs Duty and VAT; err on the side of caution as it may be difficult to seek redress if problems arise</li>\n\t<li>If you have a problem, contact the seller. Then, if you need to, contact the payment card company, local Trading Standards Office and any &#39;trustmark&#39; organisation the seller is registered with</li>\n</ol>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:51:40.075Z")
+},
+{
+    "title" : "Faq",
+    "slug_name" : "faq",
+    "sub_title" : "Faq",
+    "description" : {
+        "en":"Faq"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:48:25.080Z")
+},
+{
+    "title" : "About us",
+    "slug_name" : "aboutus",
+    "sub_title" : "About Us",
+    "description" : {
+        "en":"<p>We&#39;re here to help you find spare parts, accessories and consumables for all the electrical appliances</p>\n"
+    },
+    "updatedAt" : ISODate("2017-12-15T11:55:56.613Z")
+},
+{
+    "title" : "contact us",
+    "slug_name" : "contact-us",
+    "sub_title" : "Contact us",
+    "description" : {
+        "en":"contact us"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:48:25.080Z")
+},
+{
+    "title" : "Press Releases",
+    "slug_name" : "press-releases",
+    "sub_title" : "Press Releases",
+    "description" : {
+        "en":"<p>We believe that happy staff lead to happy customers. You can&rsquo;t pay someone to care about what they do, but within the eSpares family caring comes naturally. We only want the best, most motivated staff working for our brand and to keep our best people we make sure they&rsquo;re well rewarded.</p>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T07:02:14.020Z")
+},
+{
+    "title" : "Careers",
+    "slug_name" : "careers",
+    "sub_title" : "Careers",
+    "description" : {
+        "en":"<p>Ever fancied working for a market leading, industry award winning brand with decades of experience? Here at eSpares we don&rsquo;t settle for anything less than the best. We know that finding the best, most knowledgeable and hard working individuals to join our team is vital to providing the best experience for our customers.</p>\n\n<p>From humble beginnings selling a few spare parts out of a garden shed, eSpares now helps thousands of customers every month save shed loads of money by providing the parts, knowledge and advice to let them fix their faulty household appliances themselves.</p>\n\n<p>Our brand is expanding from our industry leading position in the UK into Europe and beyond and we need creative and bright individuals to help us shape our future.</p>\n\n<p>So if you&rsquo;re thinking now&rsquo;s the time to join us, that&rsquo;s smart. And we like smart people.</p>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:58:49.123Z")
+},
+{
+    "title" : "Terms of Use",
+    "slug_name" : "terms-of-use",
+    "sub_title" : "Terms of Use",
+    "description" : {
+        "en":"<p>Our success is based on strong traditions of quality, value for money and a genuine care for our customers. Therefore we sincerely apologise in advance for how extremely boring our Terms and Conditions are; our legal team makes us do it!</p>\n\n<p>Without further ado:</p>\n\n<h2>eSpares Terms &amp; Conditions</h2>\n\n<p>These Terms &amp; Conditions govern your use of the eSpares service and website. By visiting the eSpares website you accept, and agree to, the content of these Terms &amp; Conditions. We reserve the right to change the Terms &amp; Conditions at any time and it is your responsibility to check regularly before ordering. This does not affect your statutory rights.</p>\n\n<h2>Terms of Contract</h2>\n\n<p>When you place an order via our website&nbsp;we will treat that action as an offer to buy. Once the order is placed you will receive confirmation in the form of an email and at this time we enter into a contract with you.</p>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:48:25.080Z")
+},
+{
+    "title" : "Shipping & Payment Policy",
+    "slug_name" : "shipping-payment",
+    "sub_title" : "Shipping & Payment Policy",
+    "description" : {
+        "en":"<ol>\n\t<li>Be aware of terms and conditions: check payment and delivery details</li>\n\t<li>Keep records of what you order</li>\n\t<li>EU law protects you against fraudulent use of your payment card in EU transactions: credit cards give you extra protection</li>\n\t<li>Only give your payment card details over a secure connection, and never by email: never disclose your PIN to anyone, and NEVER send it over the Internet</li>\n\t<li>You usually have at least 7 days to cancel an order and request a refund from an EU retailer</li>\n\t<li>Check your payment card statement carefully: you have at least 90 days to report a suspect transaction</li>\n\t<li>When you buy goods online from outside the EU: you are an importer and may be liable to pay any Customs Duty and VAT; err on the side of caution as it may be difficult to seek redress if problems arise</li>\n\t<li>If you have a problem, contact the seller. Then, if you need to, contact the payment card company, local Trading Standards Office and any &#39;trustmark&#39; organisation the seller is registered with</li>\n</ol>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:51:40.075Z")
+},
+{
+    "title" : "Payment Policy",
+    "slug_name" : "payment-policy",
+    "sub_title" : "Payment Policy",
+    "description" :  {
+        "en":"Payment Policy"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:48:25.080Z")
+},
+{
+    "title" : "Cancellation & Return",
+    "slug_name" : "cancellation-return",
+    "sub_title" : "Cancellation & Return",
+    "description" :  {
+        "en":"<p><strong>eSpares</strong>&nbsp;are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.</p>\n\n<p>The type of information we will collect about you when you place an order or register on our web site includes:</p>\n\n<ul>\n\t<li>Address</li>\n\t<li>Phone number</li>\n\t<li>Email address</li>\n\t<li>Credit/debit card details</li>\n</ul>\n\n<p>This information is already stored on our internal systems and our website simply verifies you as a customer of eSpares (and their associated trading brands). We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer your information outside the EEA (European Economic Area). We may use technology to track the patterns of behaviour of visitors to our site.&nbsp;</p>\n"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:52:43.472Z")
+},
+{
+    "title" : "Farming services",
+    "slug_name" : "farming-services",
+    "sub_title" : "Farming services",
+    "description" :  {
+        "en":"Farming services"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:48:25.080Z")
+},
+{
+    "title" : "Advertise your product",
+    "slug_name" : "advertise-your-product",
+    "sub_title" : "Advertise your product",
+    "description" :  {
+        "en":"Advertise your product"
+    },
+    "updatedAt" : ISODate("2017-11-09T06:48:25.080Z")
+},
+
+
+
+
